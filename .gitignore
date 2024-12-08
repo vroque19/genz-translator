@@ -1,0 +1,33 @@
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+
+# Logs
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+.env
+.npm/
+.yarn-cache/
+.nyc_output/
+
+# Test coverage files
+.coverage
+.noserc
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
